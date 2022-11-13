@@ -1,3 +1,20 @@
 ## stock-analysis
-Performing analysis to uncover Wall Street trends
-Macro test message check
+- []  Performing analysis to uncover Wall Street trends
+- [x] Macro test message "Hello World" successful
+- [] Uploaded saved changes to GitHub
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
