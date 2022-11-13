@@ -1,2 +1,2 @@
 # stock-analysis
-Wall Street trends
+Performing analysis to uncover Wall Street trends
