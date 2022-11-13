@@ -1,7 +1,7 @@
 ## stock-analysis
-- []  Performing analysis to uncover Wall Street trends
+- [x]  Performing analysis to uncover Wall Street trends
 - [x] Macro test message "Hello World" successful
-- [] Uploaded saved changes to GitHub
+- [x] Uploaded green_stocks.xlms saved changes to GitHub
 - []
 - []
 - []
