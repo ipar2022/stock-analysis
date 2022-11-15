@@ -106,7 +106,7 @@ Next i
     Next i
 
 End Sub
-- [x]Sub DQAnalysis()
+- [x]   Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
 
 'Make a list of square numbers
@@ -116,9 +116,7 @@ For i = 1 To 10
 
 Next i
 
-End Sub
-- [x]     Open a new workbook, insert a module in VBA, create a new macro in the module, and             write     the following code into the new macro. Run the macro. What is the value in the cell G1 after     the macro finishes running?
-    That’s right! G1 gets filled on the 7th iteration, and 7 squared is 49.
+End Sub 
 - []
 - []
 - []
