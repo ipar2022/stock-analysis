@@ -27,12 +27,12 @@ End Sub
     
     Cells(3, 3).Value = "Return"
 
--[x]    Range() method
+- [x]    Range() method
     
     
     
 End Sub
--[x]    Cells() method
+- [x]    Cells() method
         Sub DQAnalysis()
         Worksheets("DQ Analysis").Activate
 
@@ -76,7 +76,7 @@ End Sub
 
 End Sub
 
-- [] total Volume for loop iterator
+- [x] total Volume for loop iterator
  totalVolume = 0
 
 Worksheets("2018").Activate
@@ -84,7 +84,7 @@ For i = 2 To 3013
     'increase totalVolume
 
 Next i
-- [] Sub DQAnalysis()
+- [x] Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
 
     Range("A1").Value = "DAQO (Ticker: DQ)"
@@ -106,7 +106,7 @@ Next i
     Next i
 
 End Sub
-- []Sub DQAnalysis()
+- [x]Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
 
 'Make a list of square numbers
@@ -117,7 +117,7 @@ For i = 1 To 10
 Next i
 
 End Sub
--[x]     Open a new workbook, insert a module in VBA, create a new macro in the module, and write     the following code into the new macro. Run the macro. What is the value in the cell G1 after     the macro finishes running?
+- [x]     Open a new workbook, insert a module in VBA, create a new macro in the module, and             write     the following code into the new macro. Run the macro. What is the value in the cell G1 after     the macro finishes running?
     That’s right! G1 gets filled on the 7th iteration, and 7 squared is 49.
 - []
 - []
