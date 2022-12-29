@@ -35,9 +35,9 @@ Sub DQAnalysis()
     
 End Sub
 
-DQ traded 107,873,900 shares in 2018.
-Daqo dropped over 63% in 2018
-Created a new worksheet called "All Stocks Analysis."
+- DQ traded 107,873,900 shares in 2018.
+- Daqo dropped over 63% in 2018.
+- Created a new worksheet called "All Stocks Analysis."
 
 
 
