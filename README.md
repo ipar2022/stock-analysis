@@ -7,7 +7,9 @@ Module two requires performing analysis on a project in order to uncover Wall St
 The edited, or refactored, code allows the user to loop through all the data one time in order to collect information on 12 tickers. This feature determines whether refactoring the code successfully made the VBA script run faster. The VBA Macro will produce results for the total daily volume and return columns. 
 
 
-Results
+- Results
+
+
 2017 was the best year to invest and receive positive returns on investments.
 The refactored code has a faster run time. Picture documentation is provided for 2017.
 
