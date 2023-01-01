@@ -10,13 +10,17 @@ The edited, or refactored, code allows the user to loop through all the data one
 Results
 2017 was the best year to invest and receive positive returns on investments.
 The refactored code has a faster run time. Picture documentation is provided for 2017.
+
 - Runtime 2017
+- 
 ![image](https://user-images.githubusercontent.com/113808332/210183853-6ba821a4-c30f-431c-ab74-b9cab5ac2dbe.png)
 
 
 2018 resulted in multiple deficits. 
 The edited code runs faster than the original code. Picture documentation is provided for 2018.
+
 -Runtime 2018
+
 ![Runtime 2018](https://user-images.githubusercontent.com/113808332/210183883-c070a84a-24ce-4f0b-ab78-556a6f6545d8.png)
 
 
