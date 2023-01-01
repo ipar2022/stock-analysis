@@ -4,7 +4,7 @@
 - Overview of stock-analysis
 
 Module two requires performing analysis on a project in order to uncover Wall Street trends.
-The edited, or refactored, code allows the user to loop through all the data one time in order to collect information on 12 tickers. This feature determines whether refactoring the code successfully made the VBA script run faster. The VBA Macro will produce results for the total daily volume and return columns. 
+The edited or refactored code allows the user to loop through all the data one time in order to collect information on 12 tickers. This feature determines whether refactoring the code successfully made the VBA script run faster. The VBA Macro will produce results for the total daily volume and return columns. 
 
 
 - Results
