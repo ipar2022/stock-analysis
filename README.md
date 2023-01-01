@@ -19,7 +19,7 @@ The refactored code has a faster run time. Picture documentation is provided for
 2018 resulted in multiple deficits. 
 The edited code runs faster than the original code. Picture documentation is provided for 2018.
 
--Runtime 2018
+- Runtime 2018
 
 ![Runtime 2018](https://user-images.githubusercontent.com/113808332/210183883-c070a84a-24ce-4f0b-ab78-556a6f6545d8.png)
 
